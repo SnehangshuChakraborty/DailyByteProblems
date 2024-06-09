@@ -1,5 +1,7 @@
-import org.example.stringReversed
-import org.example.stringReversedWithoutLibrary
+package string
+
+import org.example.string.stringReversed
+import org.example.string.stringReversedWithoutLibrary
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 

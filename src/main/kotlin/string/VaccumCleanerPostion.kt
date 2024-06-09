@@ -1,4 +1,4 @@
-package org.example
+package org.example.string
 
 /*
 Given a string representing the sequence of moves a robot vacuum makes,
