@@ -1,4 +1,4 @@
-package org.example.string
+package string
 
 import java.util.Locale
 

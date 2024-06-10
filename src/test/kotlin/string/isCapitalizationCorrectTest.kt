@@ -1,7 +1,5 @@
 package string
 
-import org.example.string.isCapitalizationCorrectBruteForce
-import org.example.string.isCapitalizationCorrectUsingCustomLibrary
 import org.junit.jupiter.api.Test
 
 class IsCapitalizationCorrectTest {

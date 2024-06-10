@@ -1,4 +1,4 @@
-package org.example.string
+package string
 
 fun stringReversed(input: String): String {
     return input.reversed()

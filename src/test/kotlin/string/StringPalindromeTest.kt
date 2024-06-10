@@ -1,8 +1,5 @@
 package string
 
-import org.example.string.isValidPalindrome
-import org.example.string.isValidPalindromeWithoutLibrary
-import org.example.string.isValidPalindromeWithoutRegex
 import org.junit.jupiter.api.Test
 
 class StringPalindromeTest {
