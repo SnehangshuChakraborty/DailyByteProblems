@@ -1,7 +1,5 @@
 package string
 
-import org.example.string.vacuumCleanerRouteBruteForce
-import org.example.string.vacuumCleanerRouteOptimized
 import org.junit.jupiter.api.Test
 
 class VacuumCleanerPositionTest {
